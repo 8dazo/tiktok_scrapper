@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data_standalone/
+test_output/
+progress_tracking/
+*.db
+.env
+dist/
+*.egg-info/
+*.egg
