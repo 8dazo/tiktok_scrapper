@@ -17,7 +17,7 @@ npm install tiktok-api-unofficial
 **From GitHub:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tiktok_scrapper.git
+git clone https://github.com/8dazo/tiktok_scrapper.git
 cd tiktok_scrapper/tiktok-api-ts
 npm install
 npm run build
@@ -89,7 +89,7 @@ If the name `tiktok-api-unofficial` is taken, set a different `name` in `package
 1. Create a new repository on [GitHub](https://github.com/new) (e.g. `tiktok_scrapper`).
 2. In your project root:
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/tiktok_scrapper.git
+   git remote add origin https://github.com/8dazo/tiktok_scrapper.git
    git push -u origin main
    ```
    (Use `master` instead of `main` if your default branch is `master`.)
